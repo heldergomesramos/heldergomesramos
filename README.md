@@ -32,7 +32,7 @@ I'm a passionate developer from Portugal with a background in computer science, 
 
 ## 💻 Group Projects
 I have participated in multiple projects during university, some of which include:
-- Nim Game Website
+- [Nim Web Game](https://github.com/heldergomesramos/Nim-Web-Game)
 - [15 Puzzle](https://github.com/heldergomesramos/15-puzzle)
 - [Connect 4](https://github.com/heldergomesramos/Connect-4)
 - [Decision Trees](https://github.com/heldergomesramos/Decision-Trees)
