@@ -29,9 +29,9 @@ I'm a passionate developer from Portugal with a background in computer science, 
     <td style="text-align: center;"><b style="font-size: 30;">In Development</b></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://pofinho.itch.io/district-dash"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="300" /></a></td>
-    <td style="text-align: center;"><a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="300" /></td>
-    <td style="text-align: center;"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="300" /></td>
+    <td style="text-align: center;"><a href="https://pofinho.itch.io/district-dash"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="250" /></a></td>
+    <td style="text-align: center;"><a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="250" /></td>
+    <td style="text-align: center;"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="250" /></td>
   </tr>
   <tr>
     <td style="text-align: center;">Developed a digital board game as part of a school project in multimedia systems.</td>
