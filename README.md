@@ -22,11 +22,25 @@ I'm a passionate developer from Portugal with a background in computer science, 
 
 ## 🎮 Game Development
 
-| Project | Description |
-|---------|-------------|
-| [District Dash](https://pofinho.itch.io/district-dash)<br><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="300" />  | Developed a digital board game as part of a school project in multimedia systems. |
-| [Shape-Shift Snaker](https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure)<br><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="300" />  | A 2D Platform game where you are what you eat. Developed by me and [cemanuelsilva](https://github.com/cemanuelsilva) in 33 hours for a game jam. Our entry won first place! |
-| [In development]<br><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="300" />  | A 2D Metroidvania game I've been working on for the past 2 years. Although it's not finished yet, it's a labor of love where I continuously learn and improve. |
+<table border="0">
+  <tr>
+    <td style="text-align: center;"><b style="font-size: 30;"><a href="https://pofinho.itch.io/district-dash">District Dash</a></b></td>
+    <td style="text-align: center;"><b style="font-size: 30;"><a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure">Shape-Shift Snaker</b></td>
+    <td style="text-align: center;"><b style="font-size: 30;">In Development</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><a href="https://pofinho.itch.io/district-dash"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="300" /></a></td>
+    <td style="text-align: center;"><a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="300" /></td>
+    <td style="text-align: center;"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="300" /></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Developed a digital board game as part of a school project in multimedia systems.</td>
+    <td style="text-align: center;">A 2D Platform game where you are what you eat. Developed by me and <a href="https://github.com/cemanuelsilva">cemanuelsilva</a> in 33 hours for a game jam. Our entry won first place!</td>
+    <td style="text-align: center;">A 2D Metroidvania game I've been working on for the past 2 years. Although it's not finished yet, it's a labor of love where I continuously learn and improve.</td>
+  </tr>
+</table>
+
+
 
 
 
