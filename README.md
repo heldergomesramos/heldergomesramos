@@ -61,6 +61,7 @@ I have participated in multiple projects during university, some of which includ
 - [Decision Trees](https://github.com/heldergomesramos/Decision-Trees)
 - [Neural Network](https://github.com/heldergomesramos/Neural-Network)
 - [Chat Rooms](https://github.com/heldergomesramos/Chat-Rooms)
+- [Marine Navigation GUI Design (Figma)](https://www.figma.com/proto/B27Lz0tdjttjnXNI5kUbyF/Navega%C3%A7%C3%A3o?node-id=1-2&starting-point-node-id=1%3A2&t=DRUXlnKmiU4G2I4q-1)
 
 
 ## 🎨 Other Interests
