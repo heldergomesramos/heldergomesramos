@@ -36,14 +36,14 @@ I'm a passionate developer from Portugal with a background in computer science, 
   <tr>
     <td style="text-align: center;">
       <a href="https://pofinho.itch.io/district-dash">
-        <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="250" />
+        <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="250" height="156"/>
     </td>
     <td style="text-align: center;">
       <a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure">
-        <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="250" />
+        <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="250" height="156"/>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="250" />
+      <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="250" height="156"/>
     </td>
   </tr>
   <tr>
