@@ -2,10 +2,13 @@
 
 I'm a passionate developer from Portugal with a background in computer science, specializing in game development and music production.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hélder-ramos) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pofinho.itch.io/)
+
 ## 🎓 Education
 - **Degree:** Licensed in Computer Science at Faculdade de Ciências da Universidade do Porto
 
-## 🛠 Skills and Experience
+## 🛠 Languages & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -20,6 +23,7 @@ I'm a passionate developer from Portugal with a background in computer science, 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🎮 Game Development
 
@@ -30,20 +34,24 @@ I'm a passionate developer from Portugal with a background in computer science, 
     <td style="text-align: center;"><b style="font-size: 30;">In Development</b></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://pofinho.itch.io/district-dash"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="250" /></a></td>
-    <td style="text-align: center;"><a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="250" /></td>
-    <td style="text-align: center;"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="250" /></td>
+    <td style="text-align: center;">
+      <a href="https://pofinho.itch.io/district-dash">
+        <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="250" />
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure">
+        <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="250" />
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="250" />
+    </td>
   </tr>
   <tr>
-    <td style="text-align: center;">Developed a digital board game as part of a school project in multimedia systems.</td>
+    <td style="text-align: center;">Developed a digital board game with 8 different minigames as part of a school project in multimedia systems.</td>
     <td style="text-align: center;">A 2D Platform game where you are what you eat. Developed by me and <a href="https://github.com/cemanuelsilva">cemanuelsilva</a> in 33 hours for a game jam. Our entry won first place!</td>
     <td style="text-align: center;">A 2D Metroidvania game I've been working on for the past 2 years. Although it's not finished yet, it's a labor of love where I continuously learn and improve.</td>
   </tr>
 </table>
-
-
-
-
 
 ## 💻 Group Projects
 I have participated in multiple projects during university, some of which include:
