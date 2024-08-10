@@ -3,7 +3,7 @@
 I'm a passionate developer from Portugal with a background in computer science, specializing in game development and music production.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hélder-ramos) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pofinho.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hélder-ramos) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pofinho.itch.io/) [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/pofinho)
 
 ## 🎓 Education
 - **Degree:** Licensed in Computer Science at Faculdade de Ciências da Universidade do Porto
