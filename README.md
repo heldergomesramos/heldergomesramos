@@ -27,7 +27,7 @@ I'm a passionate developer from Portugal with a background in computer science, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🎮 Game Development (Unity | C#)
+## 🎮 Game Development (Unity + C#)
 
 | **<a href="https://pofinho.itch.io/district-dash">District Dash</a>** | **<a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure">Shape-Shift Snacker</a>** | **<a href="https://heldergomesramos.github.io/pato-em-fradelos.html">In Development** |
 |:-----------------:|:----------------------:|:------------------:|
