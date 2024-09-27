@@ -44,6 +44,8 @@ I have participated in multiple projects during university, some of which includ
 - [Chat Rooms](https://github.com/heldergomesramos/Chat-Rooms)
 - [Marine Navigation GUI Design (Figma)](https://www.figma.com/proto/B27Lz0tdjttjnXNI5kUbyF/Navega%C3%A7%C3%A3o?node-id=1-2&starting-point-node-id=1%3A2&t=DRUXlnKmiU4G2I4q-1)
 
+## 💻 Personal Web Projects
+- **🐍 [Snake 1v1 Game](https://heldergomesramos.github.io/Snake-1v1)**: A real-time multiplayer snake game built with React, ASP.NET Core, Entity Framework Core, SQL Server and SignalR.
 
 ## 🎨 Other Interests
 - **Music Production:** I enjoy producing music, which often finds its way into my games. You can check out my work and other social media profiles [here](https://linktr.ee/pofinho).
