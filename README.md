@@ -2,8 +2,11 @@
 
 I'm a passionate developer from Portugal with a background in computer science, specializing in game development, web development and music production.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hélder-ramos) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pofinho.itch.io/) [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/pofinho)
+
+[My Portefolio](https://heldergomesramos.github.io/)
 
 ## 🎓 Education
 - **Degree:** Bachelor's Degree in Computer Science at Faculdade de Ciências da Universidade do Porto
@@ -34,6 +37,13 @@ I'm a passionate developer from Portugal with a background in computer science, 
 | <a href="https://pofinho.itch.io/district-dash"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="250" height="156"></a> | <a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="250" height="156"></a> | <a href="https://heldergomesramos.github.io/pato-em-fradelos.html"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="250" height="156"> |
 | <div style="max-width: 300px;">Developed a digital board game with 8 different minigames as part of an university project.</div> | <div style="max-width: 300px;">Developed a 2D platformer where "You are what you eat" in just 33 hours during a game jam with <a href="https://github.com/cemanuelsilva">cemanuelsilva</a>. We won first place!</div> | <div style="max-width: 300px;">A 2D Metroidvania game I've been working on for the past 2+ years.</div> |
 
+## 💻 Personal Web Projects
+| **<a href="(https://github.com/heldergomesramos/Snake-1v1)">Snake 1v1 Web Game</a>** |
+|:-----------------:|
+|<a href="https://github.com/heldergomesramos/Snake-1v1"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/gifs/Snake1v1Compressed.gif" ></a> |
+| <div style="max-width: 300px;">Developed an online 1v1 snake game featuring real-time multiplayer, custom game settings, unique abilities and multiple maps. 
+Built with React, ASP.NET Core, Entity Framework Core, MYSQL and SignalR.</div> |
+
 ## 💻 Group Projects
 I have participated in multiple projects during university, some of which include:
 - [Nim Web Game](https://github.com/heldergomesramos/Nim-Web-Game)
@@ -43,9 +53,6 @@ I have participated in multiple projects during university, some of which includ
 - [Neural Network](https://github.com/heldergomesramos/Neural-Network)
 - [Chat Rooms](https://github.com/heldergomesramos/Chat-Rooms)
 - [Marine Navigation GUI Design (Figma)](https://www.figma.com/proto/B27Lz0tdjttjnXNI5kUbyF/Navega%C3%A7%C3%A3o?node-id=1-2&starting-point-node-id=1%3A2&t=DRUXlnKmiU4G2I4q-1)
-
-## 💻 Personal Web Projects
-- **🐍 [Snake 1v1 Game](https://github.com/heldergomesramos/Snake-1v1)**: A real-time multiplayer snake game built with React, ASP.NET Core, Entity Framework Core, SQL Server and SignalR.
 
 ## 🎨 Other Interests
 - **Music Production:** I enjoy producing music, which often finds its way into my games. You can check out my work and other social media profiles [here](https://linktr.ee/pofinho).
