@@ -31,16 +31,16 @@ I'm a passionate developer from Portugal with a background in computer science, 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🎮 Game Development (Unity + C#)
-
 | **<a href="https://pofinho.itch.io/district-dash">District Dash</a>** | **<a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure">Shape-Shift Snacker</a>** | **<a href="https://heldergomesramos.github.io/pato-em-fradelos.html">In Development** |
 |:-----------------:|:----------------------:|:------------------:|
 | <a href="https://pofinho.itch.io/district-dash"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6301e43e-890f-47cf-95fa-291d91030936" width="250" height="156"></a> | <a href="https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/ccc40cd6-d998-4a4b-9b04-f20292685ee1" width="250" height="156"></a> | <a href="https://heldergomesramos.github.io/pato-em-fradelos.html"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/174441887/6e2fb52d-33ca-48db-b81a-ffd975984ab3" width="250" height="156"> |
 | <div style="max-width: 300px;">Developed a digital board game with 8 different minigames as part of an university project.</div> | <div style="max-width: 300px;">Developed a 2D platformer where "You are what you eat" in just 33 hours during a game jam with <a href="https://github.com/cemanuelsilva">cemanuelsilva</a>. We won first place!</div> | <div style="max-width: 300px;">A 2D Metroidvania game I've been working on for the past 2+ years.</div> |
 
+
 ## 💻 Personal Web Projects
 | **<a href="(https://github.com/heldergomesramos/Snake-1v1)">Snake 1v1 Web Game</a>** |
 |:-----------------:|
-|<a href="https://github.com/heldergomesramos/Snake-1v1"><img src="https://github.com/heldergomesramos/heldergomesramos/assets/gifs/Snake1v1Compressed.gif" ></a> |
+|<a href="https://github.com/heldergomesramos/Snake-1v1"><img src="https://github.com/user-attachments/assets/18f35ec4-f7ba-4c38-ac11-18b6c0a37e50" width="500" ></a> |
 | <div style="max-width: 300px;">Developed an online 1v1 snake game featuring real-time multiplayer, custom game settings, unique abilities and multiple maps. 
 Built with React, ASP.NET Core, Entity Framework Core, MYSQL and SignalR.</div> |
 
