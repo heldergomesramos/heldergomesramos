@@ -38,9 +38,9 @@ I'm a passionate developer from Portugal with a background in computer science, 
 
 
 ## 💻 Personal Web Projects
-| **<a href="https://github.com/heldergomesramos/Snake-1v1">Snake 1v1 Web Game</a>** |
+| **<a href="https://heldergomesramos.github.io/Snake-1v1/">Snake 1v1 Web Game</a>** |
 |:-----------------:|
-|<a href="https://github.com/heldergomesramos/Snake-1v1"><img src="https://github.com/user-attachments/assets/18f35ec4-f7ba-4c38-ac11-18b6c0a37e50" width="500" ></a> |
+|<a href="https://heldergomesramos.github.io/Snake-1v1/"><img src="https://github.com/user-attachments/assets/18f35ec4-f7ba-4c38-ac11-18b6c0a37e50" width="500" ></a> |
 | <div style="max-width: 300px;">Developed an online 1v1 snake game featuring real-time multiplayer, custom game settings, unique abilities and multiple maps. 
 Built with React, ASP.NET Core, Entity Framework Core, MYSQL and SignalR.</div> |
 
