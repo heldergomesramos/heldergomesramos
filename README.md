@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hélder!
 
-I'm a passionate developer from Portugal with a background in computer science, specializing in game development, web development and music production.
+I'm a passionate developer from Portugal with a background in computer science, specializing in game development, web development, software development and music production.
 
 
 ## 🌐 Socials:
